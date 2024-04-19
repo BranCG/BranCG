@@ -4,7 +4,7 @@ Tengo una pequeña "pyme" en la cual aprovecho de poner en practica distintas me
 ¡Mi servicio de paginas web x *WORDPRESS* especial para clientes que agendan horas o necesitan exhibir sus productos!
 <a href="https://buscadoriaestudio.com/">
 <p align="center">
-<img src="https://github.com/BranCG/BranCG/blob/main/webprint.png?raw=true" alt="Texto alternativo" width="500" height="300">
+<img src="https://github.com/BranCG/BranCG/blob/main/webprint.png?raw=true" alt="Texto alternativo" width="500" height="350">
 </p>
 </a>
 
