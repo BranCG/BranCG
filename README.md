@@ -3,6 +3,7 @@ Actualmente estudiante de informatica, por ahora me centro en proyectos personal
 Tengo una pequeña "pyme" en la cual aprovecho de poner en practica distintas metodologias, *AGILES O TRADICIONALES*.  
 A su vez puedo ir aprendiendo otra dinamica que me aparte del codigo y desarrollando tambien habilidades de negocio.  
 Mi servicio de paginas web x *WORDPRESS*
+![Mi web](imagen.jpg)
 
 
 <!--
