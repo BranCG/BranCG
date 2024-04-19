@@ -9,7 +9,7 @@ Actualmente estudiante de informatica, por ahora me centro en proyectos personal
 </p>
 </a>
 
-<pre><h3>Confiaron en mi trabajo✨:</h3></pre>
+<pre><h3>Confiaron en mi trabajo✨:</h3>
 
 <table style="width:100%">
 <tr>
@@ -29,7 +29,7 @@ Actualmente estudiante de informatica, por ahora me centro en proyectos personal
 </a>
 </td>
 </table>
-
+</pre>
 
 
 <!--
