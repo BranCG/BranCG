@@ -1,4 +1,6 @@
-# Hola, soy Brandon Castro👋
+## Hola, soy Brandon Castro👋
+Actualmente estoy estudiando para lograr ser desarrollador, por ahora me centro en proyectos personales en distintas tecnologias.
+
 
 <!--
 **BranCG/BranCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
