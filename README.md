@@ -3,9 +3,29 @@ Actualmente estudiante de informatica, por ahora me centro en proyectos personal
 Tengo una pequeña "pyme" en la cual aprovecho de poner en practica distintas metodologias, *AGILES O TRADICIONALES*.  
 ¡Mi servicio de paginas web x *WORDPRESS* especial para clientes que agendan horas o necesitan exhibir sus productos!
 <p align="center">
-<img src="https://github.com/BranCG/BranCG/blob/main/webprint.png?raw=true" alt="Texto alternativo" width="600" height="400">
+<img src="https://github.com/BranCG/BranCG/blob/main/webprint.png?raw=true" alt="Texto alternativo" width="500" height="300">
 </p>
 
+## Confiaron en mi trabajo:
+
+<table style="width:100%">
+<tr>
+<td>
+<a href="https://adriancastillo.buscadoriaestudio.com/">
+<img src="https://github.com/BranCG/BranCG/blob/main/dsdasdasdasdsdas.png?raw=true">
+</a>
+</td>
+<td>
+<a href="https://alejandroconfecciones.buscadoriaestudio.com/">
+<img src="https://github.com/BranCG/BranCG/blob/main/DASDAADS.png?raw=true">
+</a>
+</td>
+<td>
+<a href="https://blackboxbarbershop.buscadoriaestudio.com">
+<img src="https://github.com/BranCG/BranCG/blob/main/fdfdfsdfdfs.png?raw=true">
+</a>
+</td>
+</table>
 <!--
 **BranCG/BranCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
