@@ -1,7 +1,7 @@
 ## Hola, soy Brandon Castro👋
 Actualmente estudiante, por ahora me centro en proyectos personales y aprendiendo distintas tecnologias.
-Tengo una pequeña pyme en la cual pongo en practica la organizacion de proyectos, ya sea utilizando metodologias agiles o tradicionales.
-A su vez puedo ir aprendiendo otra dinamica que me aparte del codigo.
+Tengo una pequeña "pyme" en la cual pongo en practica la organizacion de proyectos, ya sea utilizando metodologias agiles o tradicionales.
+A su vez puedo ir aprendiendo otra dinamica que me aparte del codigo.  
 Mi servicio de paginas web x *WORDPRESS*
 
 <!--
