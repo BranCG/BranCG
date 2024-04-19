@@ -1,7 +1,7 @@
-<pre>Hola, soy Brandon Castro👋
+### Hola, soy Brandon Castro👋
 <p align="center">
 Actualmente estudiante de informatica, por ahora me centro en proyectos personales y aprendiendo distintas tecnologias.<br>
-¡Mi servicio de paginas web x WORDPRESS especial para clientes que agendan horas o necesitan exhibir sus productos!</pre>
+¡Mi servicio de paginas web x WORDPRESS especial para clientes que agendan horas o necesitan exhibir sus productos!
 </p>
 <a href="https://buscadoriaestudio.com/">
 <p align="center">
@@ -9,7 +9,7 @@ Actualmente estudiante de informatica, por ahora me centro en proyectos personal
 </p>
 </a>
 
-## Confiaron en mi trabajo✨:
+<pre><h3>Confiaron en mi trabajo✨:</h3></pre>
 
 <table style="width:100%">
 <tr>
