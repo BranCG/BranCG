@@ -3,9 +3,9 @@ Actualmente estudiante de informatica, por ahora me centro en proyectos personal
 Tengo una pequeña "pyme" en la cual aprovecho de poner en practica distintas metodologias, *AGILES O TRADICIONALES*.  
 A su vez puedo ir aprendiendo otra dinamica que me aparte del codigo y desarrollando tambien habilidades de negocio.  
 #¡Mi servicio de paginas web x *WORDPRESS* especial para clientes que agendan horas o necesitan exhibir sus productos!
-![BuscadoriaEstudio](<img src="[URL_de_la_imagen](https://github.com/BranCG/BranCG/blob/main/webprint.png?raw=true)" alt="Texto alternativo" width="200" height="200">
-)
-
+<p align="center">
+<img src="https://github.com/BranCG/BranCG/blob/main/webprint.png?raw=true" alt="Texto alternativo" width="600" height="400">
+</p>
 
 <!--
 **BranCG/BranCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
