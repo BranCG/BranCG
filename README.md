@@ -1,7 +1,8 @@
 ## Hola, soy Brandon Castro👋
-Actualmente estudiante de informatica, por ahora me centro en proyectos personales y aprendiendo distintas tecnologias.  
-
+<p align="center">
+Actualmente estudiante de informatica, por ahora me centro en proyectos personales y aprendiendo distintas tecnologias.<br>
 ¡Mi servicio de paginas web x ***WORDPRESS*** especial para clientes que agendan horas o necesitan exhibir sus productos!
+</p>
 <a href="https://buscadoriaestudio.com/">
 <p align="center">
 <img src="https://github.com/BranCG/BranCG/blob/main/webprint.png?raw=true" alt="Texto alternativo" width="500" height="350">
