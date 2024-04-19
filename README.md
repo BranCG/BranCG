@@ -1,7 +1,7 @@
-## Hola, soy Brandon Castro👋
+<pre>Hola, soy Brandon Castro👋
 <p align="center">
 Actualmente estudiante de informatica, por ahora me centro en proyectos personales y aprendiendo distintas tecnologias.<br>
-¡Mi servicio de paginas web x ***WORDPRESS*** especial para clientes que agendan horas o necesitan exhibir sus productos!
+¡Mi servicio de paginas web x WORDPRESS especial para clientes que agendan horas o necesitan exhibir sus productos!</pre>
 </p>
 <a href="https://buscadoriaestudio.com/">
 <p align="center">
@@ -29,6 +29,9 @@ Actualmente estudiante de informatica, por ahora me centro en proyectos personal
 </a>
 </td>
 </table>
+
+
+
 <!--
 **BranCG/BranCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
