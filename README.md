@@ -10,7 +10,7 @@ ESPECIAL para clientes que agendan horas o necesitan exhibir sus productos
 </p>
 </a>
 
-<pre><h3>Confiaron en mi trabajo✨:</h3>
+<pre><h2>Confiaron en mi trabajo✨:</h2>
 
 <table style="width:100%">
 <tr>
