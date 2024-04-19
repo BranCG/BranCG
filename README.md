@@ -1,8 +1,9 @@
 ## Hola, soy Brandon Castro👋
-Actualmente estudiante, por ahora me centro en proyectos personales y aprendiendo distintas tecnologias.
-Tengo una pequeña "pyme" en la cual pongo en practica la organizacion de proyectos, ya sea utilizando metodologias agiles o tradicionales.
-A su vez puedo ir aprendiendo otra dinamica que me aparte del codigo.  
+Actualmente estudiante de informatica, por ahora me centro en proyectos personales y aprendiendo distintas tecnologias.  
+Tengo una pequeña "pyme" en la cual aprovecho de poner en practica distintas metodologias, *AGILES O TRADICIONALES*.  
+A su vez puedo ir aprendiendo otra dinamica que me aparte del codigo y desarrollando tambien habilidades de negocio.  
 Mi servicio de paginas web x *WORDPRESS*
+
 
 <!--
 **BranCG/BranCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
