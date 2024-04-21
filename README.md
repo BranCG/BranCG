@@ -6,7 +6,7 @@ ESPECIAL para clientes que agendan horas o necesitan exhibir sus productos
 </p>
 <a href="https://buscadoriaestudio.com/">
 <p align="center">
-<img src="https://github.com/BranCG/BranCG/blob/main/webprint.png?raw=true" alt="Texto alternativo" width="500" height="350">
+<img src="https://github.com/BranCG/BranCG/blob/main/webprint.png?raw=true" alt="Texto alternativo" width="600" height="350">
 </p>
 </a>
 
