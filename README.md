@@ -11,8 +11,7 @@ ESPECIAL para clientes que agendan horas o necesitan exhibir sus productos
 </a>
 
 <pre><h2>Confiaron en mi trabajo✨:</h2>
-
-<table style="width:200px">
+<table style="width:10px">
 <tr>
 <td>
 <a href="https://adriancastillo.buscadoriaestudio.com/">
