@@ -1,4 +1,4 @@
-### Hola, soy Brandon Castro👋
+### Hola👋
 <p align="center">
 Actualmente estudiante de informatica, por ahora me centro en proyectos personales y aprendiendo distintas tecnologias.<br>
 ⚡ ¡Les presento mi servicio de paginas web x WORDPRESS!⚡ <br>
