@@ -4,7 +4,7 @@ Actualmente estudiante de informatica, por ahora me centro en proyectos personal
 ⚡ ¡Les presento mi servicio de paginas web x WORDPRESS!⚡ <br>
 ESPECIAL para clientes que agendan horas o necesitan exhibir sus productos
 </p>
-<a href="https://buscadoriaestudio.com/">
+<a href="https://buscadoriaestudio.com/" target="_blank">
 <p align="center">
 <img src="https://github.com/BranCG/BranCG/blob/main/webprint.png?raw=true" alt="Texto alternativo" width="600" height="350">
 </p>
