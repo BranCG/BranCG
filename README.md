@@ -41,7 +41,12 @@ ESPECIAL para clientes que agendan horas o necesitan exhibir sus productos
 
 #### [Scrum Learn Awareness](https://badges.innovativelearning.eu/badge/35d436e7-e7cc-43f7-8016-433fd92f798e)
 <a href="https://badges.innovativelearning.eu/badge/35d436e7-e7cc-43f7-8016-433fd92f798e">
-<img style="width: 150px; height: 150px" src="https://github.com/BranCG/BranCG/blob/main/Screenshot_20240428-232443-988~2.png">
+<img style="width: 180px; height: 150px" src="https://github.com/BranCG/BranCG/blob/main/Screenshot_20240428-232443-988~2.png">
+</a>
+
+#### [Scrum Foundation Professional Certification](https://github.com/BranCG/BranCG/blob/main/badges-scrum-certifpro.png)
+<a href="https://github.com/BranCG/BranCG/blob/main/badges-scrum-certifpro.png">
+<img style="width: 180px; height: 150px" src="https://github.com/BranCG/BranCG/blob/main/badges-scrum-certifpro.png">
 </a>
 
 
