@@ -44,7 +44,7 @@ ESPECIAL para clientes que agendan horas o necesitan exhibir sus productos
 <img style="width: 180px; height: 150px" src="https://github.com/BranCG/BranCG/blob/main/Screenshot_20240428-232443-988~2.png">
 </a>
 
-#### [Scrum Foundation Professional Certification](https://github.com/BranCG/BranCG/blob/main/badges-scrum-certifpro.png)
+#### [Scrum Foundation Professional Certification](https://www.credly.com/earner/earned/badge/10c8b812-a3f9-4608-ab50-d4618544afd8)
 <a href="https://github.com/BranCG/BranCG/blob/main/badges-scrum-certifpro.png">
 <img style="width: 180px; height: 150px" src="https://github.com/BranCG/BranCG/blob/main/badges-scrum-certifpro.png">
 </a>
