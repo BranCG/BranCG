@@ -3,7 +3,7 @@
 <p align="center">
 Actualmente estudiante de informatica, por ahora me centro en proyectos personales y aprendiendo distintas tecnologias.<br>
 ⚡ ¡Les presento mi servicio de paginas web!⚡ <br>
-ESPECIAL para clientes que agendan horas o necesitan un carrito de compras
+ESPECIAL para clientes que agendan horas, necesiten un carrito de compras o tener su landingpage.
 </p>
 <a href="https://buscadoriaestudio.com/">
 <p align="center">
