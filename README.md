@@ -7,7 +7,6 @@ ESPECIAL para clientes que agendan horas, necesiten un carrito de compras o tene
 </p>
 <a href="https://buscadoriaestudio.com/">
 <p align="center">
-<img src="https://github.com/BranCG/BranCG/blob/main/webprint.png?raw=true" alt="Texto alternativo" width="600" height="350">
 </p>
 </a>
 
