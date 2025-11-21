@@ -14,17 +14,12 @@ ESPECIAL para clientes que agendan horas, necesiten un carrito de compras o tene
 <table style="width:10px">
 <tr>
 <td>
-<a href="https://adriancastillo.buscadoriaestudio.com/">
+<a href="https://philadelphiadrian.buscadoriaestudio.com/">
 <img src="https://github.com/BranCG/BranCG/blob/main/dsdasdasdasdsdas.png?raw=true">
 </a>
 </td>
 <td>
-<a href="https://alejandroconfecciones.buscadoriaestudio.com/">
-<img src="https://github.com/BranCG/BranCG/blob/main/DASDAADS.png?raw=true">
-</a>
-</td>
-<td>
-<a href="https://blackboxbarbershop.buscadoriaestudio.com">
+<a href="https://zrpm.cl/">
 <img src="https://github.com/BranCG/BranCG/blob/main/fdfdfsdfdfs.png?raw=true">
 </a>
 </td>
