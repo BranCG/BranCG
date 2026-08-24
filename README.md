@@ -2,29 +2,6 @@
 
 <p align="center">
 Actualmente estudiante de informatica, por ahora me centro en proyectos personales y aprendiendo distintas tecnologias.<br>
-⚡ ¡Les presento mi servicio de paginas web!⚡ <br>
-ESPECIAL para clientes que agendan horas, necesiten un carrito de compras o tener su landingpage.
-</p>
-<a href="https://buscadoriaestudio.com/">
-<p align="center">
-</p>
-</a>
-
-<pre><h2>Confiaron en mi trabajo✨:</h2>
-<table style="width:10px">
-<tr>
-<td>
-<a href="https://philadelphiadrian.buscadoriaestudio.com/">
-<img src="https://github.com/BranCG/BranCG/blob/main/dsdasdasdasdsdas.png?raw=true">
-</a>
-</td>
-<td>
-<a href="https://zrpm.cl/">
-<img src="https://github.com/BranCG/BranCG/blob/main/fdfdfsdfdfs.png?raw=true">
-</a>
-</td>
-</table>
-</pre>
 
 ### 🏅 Certificate 🏅
 
