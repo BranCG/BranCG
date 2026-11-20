@@ -1,7 +1,7 @@
 # Hola👋
 
 <p align="center">
-Desempeñándome en el area de desarrollo como Desarrollador FullStack para Laila Tecnología LEgal, estudiante de ultimo año Ing informática, por ahora me centro en proyectos personales y aprendiendo distintas tecnologías.<br>
+Desempeñándome en el area de desarrollo como Desarrollador FullStack para Laila Tecnología Legal, estudiante de ultimo año Ing informática, por ahora me centro en proyectos personales y aprendiendo distintas tecnologías.<br>
 
 ### 🏅 Certificate 🏅
 
